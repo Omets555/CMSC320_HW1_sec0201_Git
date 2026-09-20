@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge keeps the history and you commit to bring branches together and rebasing moves the branch to the edge of the other branch and makes a history next to each other
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am enrolled in a golf class and excited to become better at the sport!
